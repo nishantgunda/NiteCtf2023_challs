@@ -1,1 +1,1 @@
-# NiteCtf2023_challs
+Challenges I worked on for NiteCtf 2023
